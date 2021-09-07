@@ -12,5 +12,9 @@ Coorg is called as **Scotland of India**.
 3. Take Cabs
     1. From maryville to kansas airport,
     2. From bangalore take a cab to Coorg. 
-
+- Items to be brought for maximum enjoyment
+    - jacket
+    - shoes
+    - dresses
+    - food
 
