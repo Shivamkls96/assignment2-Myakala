@@ -19,3 +19,24 @@ Coorg is called as **Scotland of India**.
     - food
 
 [text](AboutMe.md)
+
+***Food Reco***
+
+**Food Recommendations** that I would recommend others
+|food/drink item| Location| money to pay |
+| --- | --- | ---:|
+|Punugulu | Hyderabad | 20 |
+|Tea | Charminar | 10 |
+|Mirchi Bajji | Hyderabad | 25 |
+|Mutton Biryani | Bawarchi | 120 |
+
+***Favorite Quotations***
+
+# Inspiring Quotations
+>The best and most **beautiful things** in the world cannot be seen or even touched - **they must be felt with the heart.** <br>
+>The best **preparation** for tomorrow is doing your **best today**.
+*H. Jackson Brown, Jr.*
+
+
+
+
